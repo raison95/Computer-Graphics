@@ -1,0 +1,3 @@
+﻿  AlkkagiView.cpp
+c:\users\xownd\onedrive\바탕 화면\alkkagi\alkkagi\alkkagiview.cpp(398): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  Alkkagi.vcxproj -> C:\Users\xownd\OneDrive\바탕 화면\Alkkagi\Debug\Alkkagi.exe
